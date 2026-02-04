@@ -47,7 +47,4 @@ Nothing here is financial advice, and performance in backtests does not guarante
 
 
 UNAUTHORIZED USAGE OF THE CONTENTS IS PROHIBITED AND MAY RESULT IN LEGAL ACTIONS
-## Notes
 
-This repository is for research and educational purposes only.  
-Backtests and forecasts do not guarantee future performance.
